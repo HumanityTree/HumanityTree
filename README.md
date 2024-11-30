@@ -42,6 +42,7 @@ HumanityTree ofrece una plataforma para que las personas:
 •	Geo-Location: Find services and offers nearby.  
 •	Open Source & Money-Free: No hidden fees or costs.  
 •	Modular and Scalable: Easily extendable with new features.  
+•	The actual data, such as books, PDFs, websites, and profile pages, can be hosted for free on web servers like GitHub Pages. 
 
 **Deutsch:**  
 •	Dezentrale Datenbank: Auf IPFS aufgebaut für weltweit verfügbare, fälschungssichere Datenspeicherung.  
@@ -49,6 +50,7 @@ HumanityTree ofrece una plataforma para que las personas:
 •	Geolokalisierung: Finde Dienstleistungen und Angebote in der Nähe.  
 •	Open Source & Geldfrei: Keine versteckten Gebühren oder Kosten.  
 •	Modular und Skalierbar: Leicht erweiterbar mit neuen Funktionen.  
+•   Die eigentlichen Daten, wie Bücher, PDF, Webseiten, Profilseiten können auf Webservern wie zum Beispiel Github Pages kostenlos gehostet werden.
 
 **Español:**
 •	Base de Datos Descentralizada: Construido sobre IPFS para almacenamiento de datos disponible globalmente e inmune a manipulaciones.  
@@ -56,6 +58,7 @@ HumanityTree ofrece una plataforma para que las personas:
 •	Geolocalización: Encuentra servicios y ofertas cercanas.  
 •	Código Abierto y Libre de Dinero: Sin tarifas o costos ocultos.  
 •	Modular y Escalable: Fácilmente ampliable con nuevas funciones.  
+•	Los datos reales, como libros, PDFs, sitios web y páginas de perfil, pueden ser alojados de forma gratuita en servidores web como GitHub Pages. 
 
 ---
 
