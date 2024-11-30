@@ -176,22 +176,21 @@ Hier ein Beispiel, wie du Einträge erstellen und suchen kannst:
 **Eintrag erstellen:**
 ```json
 {
-  "uuid": "123e4567-e89b-12d3-a456-426614174000",
-  "title": "Genesis Book",
-  "type": "book",
-  "hashtags": ["#philosophy", "#freedom"],
+  "uuid": "123e4567-e89b-12d3-a456-426614174001",
+  "title": "Nick",
+  "type": "user",
+  "hashtags": ["#man-lookingfor-woman", "#sport-kitesurfing"],
   "location": {
-    "latitude": 52.5200,
-    "longitude": 13.4050
+    "latitude": 25.2500,
+    "longitude": 11.5050
   },
-  "price": "free",
-  "url": "https://example.com/genesis-book"
+  "url": "https://example.com/nick"
 }
 ```
 
 **Eintrag suchen:**
 ```bash
-curl http://localhost:3000/search?hashtags=philosophy
+curl http://localhost:3000/search?hashtags=man-lookingfor-woman,sport-kitesurfing
 ```
 
 **Español:**
@@ -200,21 +199,22 @@ Aquí tienes un ejemplo de cómo crear y buscar entradas:
 **Crear una Entrada:**
 ```json
 {
-  "uuid": "123e4567-e89b-12d3-a456-426614174000",
-  "title": "Genesis Book",
-  "type": "book",
-  "hashtags": ["#philosophy", "#freedom"],
+  "uuid": "123e4567-e89b-12d3-a456-426614174002",
+  "title": "The Mechanic",
+  "type": "service",
+  "hashtags": ["#profession-mechanic", "#knowledge-vw"],
   "location": {
-    "latitude": 52.5200,
-    "longitude": 13.4050
+    "latitude": 37.1200,
+    "longitude": 22.9020
   },
-  "price": "free",
-  "url": "https://example.com/genesis-book"
+  "price": "",
+  "currencies": ["EUR", "USD", "minuto"],
+  "url": "https://example.com/the_mechanic"
 }
 ```
 **Buscar una Entrada:**
 ```bash
-curl http://localhost:3000/search?hashtags=philosophy
+curl http://localhost:3000/search?hashtags=profession-mechanic,knowledge-vw&currencies=minuto
 ```
 
 # 💬 Community / Community / Comunidad
