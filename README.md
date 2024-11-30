@@ -80,83 +80,6 @@ HumanityTree ofrece una plataforma para que las personas:
 
 ---
 
-# 🛠️ Installation / Installation / Instalación
-**English:**
-
-**Prerequisites:**
-
-•	Node.js (>= 16.x)  
-•	IPFS Client (Kubo recommended)  
-
-**Steps:**
-
-1.	Clone the repository:  
-```
-git clone https://github.com/your-username/HumanityTree.git  
-cd HumanityTree
-```
-2.	Install dependencies:  
-```
-npm install
-```
-
-3.	Start the app:  
-```
-npm start
-```
-
-**Deutsch:**
-
-**Voraussetzungen:**
-
-•	Node.js (>= 16.x)  
-•	IPFS-Client (Kubo empfohlen)  
-
-**Schritte:**
-
-1.	Repository klonen:  
-```
-git clone https://github.com/your-username/HumanityTree.git  
-cd HumanityTree
-```
-
-2.	Abhängigkeiten installieren:  
-```
-npm install
-```
-
-3.	Die App starten:  
-```
-npm start
-```
-
-**Español:**
-
-**Requisitos:**
-
-	•	Node.js (>= 16.x)  
-	•	Cliente IPFS (Kubo recomendado)  
-
-**Pasos:**
-
-1.	Clona el repositorio:  
-```
-git clone https://github.com/your-username/HumanityTree.git  
-cd HumanityTree
-```
-
-2.	Instala las dependencias:  
-```
-npm install
-```
-
-3.	Inicia la aplicación:
-```
-npm start
-```
-
----
-
 # 💡 Contribute / Mitmachen / Contribuir
 **English:**
 We welcome contributions!  
@@ -290,8 +213,6 @@ Aquí tienes un ejemplo de cómo crear y buscar entradas:
 ```bash
 curl http://localhost:3000/search?hashtags=philosophy
 ```
-
----
 
 # 💬 Community / Community / Comunidad
 
