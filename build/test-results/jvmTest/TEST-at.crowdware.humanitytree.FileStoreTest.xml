@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.crowdware.humanitytree.FileStoreTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-23T05:33:36" hostname="Mac.fritz.box" time="0.084">
+  <properties/>
+  <testcase name="savesNodeContent()[jvm]" classname="at.crowdware.humanitytree.FileStoreTest" time="0.065"/>
+  <testcase name="persistsNodesAcrossInstances()[jvm]" classname="at.crowdware.humanitytree.FileStoreTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="at.crowdware.humanitytree.HumanityTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-23T05:33:37" hostname="Mac.fritz.box" time="0.029">
+  <properties/>
+  <testcase name="splitsLeafWhenCapacityExceeded()[jvm]" classname="at.crowdware.humanitytree.HumanityTreeTest" time="0.025"/>
+  <testcase name="insertAndLookupMultipleProfiles()[jvm]" classname="at.crowdware.humanitytree.HumanityTreeTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

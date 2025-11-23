@@ -1,0 +1,20 @@
+{
+    "books": [
+      {
+        "title": "Mein Buch",
+        "author": "Autor Name",
+        "genre": "Fiction",
+        "tags": ["family", "friendship"],
+        "date": "2019-07-04T13:33:03.969Z",
+        "cid": "QmXoYza2Bxztf3sBc84J9k4rUJfrfdG9gtbsXw72ZfwK9V"
+      },
+      {
+        "title": "Anderes Buch",
+        "author": "Anderer Autor",
+        "genre": "Science Fiction",
+        "tags": ["stars", "spaceship", "sol"],
+        "date": "2019-07-04T13:33:04.969Z",
+        "cid": "QmYiK9kXQ2BZ1k7PxV2XhaLfp2UnfhNfA9rNzMjf3tL6Fk"
+      }
+    ]
+  }
